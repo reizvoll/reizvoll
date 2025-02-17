@@ -19,14 +19,12 @@
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
 </div>
 
-### Styled By 🖌️
+### Styled By ✨
 <div>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/tailwind-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
-
-<br>
 
 ### Tools 🛠
 <div>
@@ -36,12 +34,15 @@
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=49EB7C" />&nbsp
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/Figma-EC5990?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-<br>
+### Database ⚙️
+<div>
+    <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=49EB7C" />
+</div>
+
 
 ## Contributions 💁🏻‍♂️
 <div align="center">
