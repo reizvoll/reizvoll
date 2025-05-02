@@ -11,7 +11,7 @@
 ### Techs 💻
 <div>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Next.js-181818?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <br />
@@ -21,9 +21,10 @@
 
 ### Styled By ✨
 <div>
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
+  <img src="https://img.shields.io/badge/styled--components-F5A142?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/tailwind-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/SCSS-DB7093.svg?style=for-the-badge&logo=Sass&logoColor=white" />
 </div>
 
 ### Tools 🛠
@@ -40,7 +41,14 @@
 
 ### Database ⚙️
 <div>
-    <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=49EB7C" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=49EB7C" />&nbsp
+</div>
+
+### Now Learning ⛳️
+<div>
+  <img src="https://img.shields.io/badge/Node.js-55B344?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Postgres-4D84A8?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Docker-2F84D4?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 
