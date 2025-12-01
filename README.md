@@ -3,10 +3,9 @@
 </div>
 
 ## Tech Stack 📊
-
-| [![reizvoll's GitHub stats](https://github-readme-stats.vercel.app/api?username=reizvoll&show_icons=true&theme=transparent&hide=stars,issues&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reizvoll&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reizvoll&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ### Techs 💻
 <div>
@@ -52,5 +51,7 @@
 </div>
 
 
-## Contributions Growing 🌱
+## Contributions 🌱
+<div align="center">
 [![reizvoll's Garden](https://git-plants.com/api/mypage/reizvoll?format=gif&mode=MINI&width=267&height=400&potX=50&potY=80)](https://git-plants.com)
+</div>
