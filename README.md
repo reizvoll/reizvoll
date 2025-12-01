@@ -52,13 +52,5 @@
 </div>
 
 
-## Contributions 💁🏻‍♂️
-<div align="center">
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=reizvoll&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/reizvoll"
-  width="600"
-  height="300"
-/>
-</a>
-</div>
+## Contributions Growing 🌱
+[![reizvoll's Garden](https://git-plants.com/api/mypage/reizvoll?format=gif&mode=MINI&width=267&height=400&potX=50&potY=80)](https://git-plants.com)
