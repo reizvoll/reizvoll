@@ -3,9 +3,7 @@
 </div>
 
 ## Tech Stack 📊
-<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reizvoll&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 ### Techs 💻
 <div>
@@ -52,6 +50,4 @@
 
 
 ## Contributions 🌱
-<div align="center">
 [![reizvoll's Garden](https://git-plants.com/api/mypage/reizvoll?format=gif&mode=MINI&width=267&height=400&potX=50&potY=80)](https://git-plants.com)
-</div>
